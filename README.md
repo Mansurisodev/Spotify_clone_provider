@@ -5,7 +5,7 @@ for backend setup [here](https://github.com/Ansh-Rathod/Musive-Backend)
 
 
 
-<h3 align="center"><a href="https://github.com/Ansh-Rathod/Flutter-Musive-app/releases/download/v1.0.1/app-armeabi-v7a-release.apk">Download the release APK</a></h3>
+></h3>
 </p>
 
 # Features
